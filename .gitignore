@@ -1,0 +1,8 @@
+/nbproject
+vendor
+composer.lock
+/.htaccess
+/protected/runtime
+/public/assets
+/protected/config/env.txt
+/protected/config/*local*
